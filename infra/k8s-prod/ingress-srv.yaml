@@ -9,7 +9,7 @@ metadata:
     nginx.ingress.kubernetes.io/use-regex: 'true'
 spec:
   rules:
-    - host: friendlytix.dev
+    - host: friendlytix.seher.tech
       http:
         paths:
           - path: /api/payments/?(.*)
