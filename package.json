@@ -1,0 +1,20 @@
+{
+  "name": "seher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add": "git add . && git commit -m \"Updates\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sehermahmud/friendlytix.git"
+  },
+  "author": "Seher Mahmud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sehermahmud/friendlytix/issues"
+  },
+  "homepage": "https://github.com/sehermahmud/friendlytix#readme"
+}
