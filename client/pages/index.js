@@ -58,7 +58,7 @@ const LandingPage = ({ currentUser, tickets }) => {
     <Card style={{ margin: '1em', borderRadius: 0 }}>
       <CardContent>
         <div>
-          <h2>Tickets</h2>
+          <h1>Tickets</h1>
           <br />
           <MDBDataTable striped bordered data={data} />
         </div>
